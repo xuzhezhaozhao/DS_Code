@@ -1,0 +1,11 @@
+
+#include "type_def.h"
+#include "tree.h"
+#include "stack.h"
+#include "queue.h"
+#include "thread_tree.h"
+#include "ptree.h"
+#include "mfset.h"
+#include "huffman_tree.h"
+#include "trial.h"
+#include "practice.h"

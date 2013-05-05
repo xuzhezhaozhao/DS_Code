@@ -1,0 +1,18 @@
+﻿1>------ 已启动生成: 项目: chapter10, 配置: Debug Win32 ------
+1>生成启动时间为 2013/4/8 11:18:52。
+1>InitializeBuildStatus:
+1>  正在对“Debug\chapter10.unsuccessfulbuild”执行 Touch 任务。
+1>ClCompile:
+1>  main.cpp
+1>  insert_sort.cpp
+1>d:\ds_code\chapter10\chapter10\insert_sort.cpp(15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+1>d:\ds_code\chapter10\chapter10\insert_sort.cpp(20): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+1>d:\ds_code\chapter10\chapter10\insert_sort.cpp(30): fatal error C1004: 发现意外的文件尾
+1>  正在生成代码...
+1>
+1>生成失败。
+1>
+1>已用时间 00:00:00.19
+========== 生成: 成功 0 个，失败 1 个，最新 0 个，跳过 0 个 ==========

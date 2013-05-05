@@ -1,0 +1,22 @@
+﻿1>------ 已启动生成: 项目: chapter7, 配置: Debug Win32 ------
+1>生成启动时间为 2013/4/1 22:12:03。
+1>InitializeBuildStatus:
+1>  正在对“Debug\chapter7.unsuccessfulbuild”执行 Touch 任务。
+1>ClCompile:
+1>  DFS_BFS.cpp
+1>d:\ds_code\chapter7\chapter7\dfs_bfs.cpp(336): warning C4715: “CriticalPath”: 不是所有的控件路径都返回值
+1>ManifestResourceCompile:
+1>  所有输出均为最新。
+1>Manifest:
+1>  所有输出均为最新。
+1>LinkEmbedManifest:
+1>  所有输出均为最新。
+1>  chapter7.vcxproj -> D:\DS_code\chapter7\Debug\chapter7.exe
+1>FinalizeBuildStatus:
+1>  正在删除文件“Debug\chapter7.unsuccessfulbuild”。
+1>  正在对“Debug\chapter7.lastbuildstate”执行 Touch 任务。
+1>
+1>生成成功。
+1>
+1>已用时间 00:00:00.47
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========

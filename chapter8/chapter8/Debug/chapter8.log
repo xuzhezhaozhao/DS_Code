@@ -1,0 +1,31 @@
+﻿生成启动时间为 2013/4/2 20:43:38。
+     1>项目“D:\DS_code\chapter8\chapter8\chapter8.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\chapter8.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\ds_code\chapter8\chapter8\main.cpp(10): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : 参见“strtok”的声明
+     1>d:\ds_code\chapter8\chapter8\main.cpp(14): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : 参见“strtok”的声明
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\DS_code\chapter8\Debug\chapter8.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\chapter8.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\DS_code\chapter8\Debug\chapter8.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\DS_code\chapter8\Debug\chapter8.lib" /MACHINE:X86 Debug\chapter8.exe.embed.manifest.res
+         Debug\alloc.obj
+         Debug\main.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\chapter8.exe.embed.manifest" /manifest Debug\chapter8.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         chapter8.vcxproj -> D:\DS_code\chapter8\Debug\chapter8.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\chapter8.unsuccessfulbuild”。
+         正在对“Debug\chapter8.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\DS_code\chapter8\chapter8\chapter8.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.43

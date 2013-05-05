@@ -1,0 +1,29 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: chapter3 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\who\AppData\Local\Temp\RSPE223.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/chapter3.pdb" /debug /machine:I386 /out:"Debug/chapter3.exe" /pdbtype:sept 
+.\Debug\aglorithm.obj
+.\Debug\main.obj
+.\Debug\sq_stack.obj
+]
+Creating command line "link.exe @C:\Users\who\AppData\Local\Temp\RSPE223.tmp"
+<h3>Output Window</h3>
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/chapter3.bsc"  .\Debug\aglorithm.sbr .\Debug\main.sbr .\Debug\sq_stack.sbr"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+chapter3.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,29 @@
+﻿1>------ 已启动生成: 项目: chapter6, 配置: Debug Win32 ------
+1>生成启动时间为 2013/3/16 14:02:19。
+1>InitializeBuildStatus:
+1>  正在创建“Debug\chapter6.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+1>ClCompile:
+1>  tree.cpp
+1>d:\ds_code\chapter6\chapter6\tree.cpp(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+1>  thread_tree.cpp
+1>  正在生成代码...
+1>  正在编译...
+1>  stack.cpp
+1>  main.cpp
+1>  正在生成代码...
+1>ManifestResourceCompile:
+1>  所有输出均为最新。
+1>Manifest:
+1>  所有输出均为最新。
+1>LinkEmbedManifest:
+1>  所有输出均为最新。
+1>  chapter6.vcxproj -> D:\DS_code\chapter6\Debug\chapter6.exe
+1>FinalizeBuildStatus:
+1>  正在删除文件“Debug\chapter6.unsuccessfulbuild”。
+1>  正在对“Debug\chapter6.lastbuildstate”执行 Touch 任务。
+1>
+1>生成成功。
+1>
+1>已用时间 00:00:02.04
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========

@@ -1,0 +1,36 @@
+﻿生成启动时间为 2013/4/3 14:22:57。
+     1>项目“D:\DS_code\chapter7\chapter7\chapter7.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\chapter7.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt DFS_BFS.cpp graph.cpp main.cpp
+         DFS_BFS.cpp
+         正在生成代码...
+     1>d:\ds_code\chapter7\chapter7\dfs_bfs.cpp(336): warning C4715: “CriticalPath”: 不是所有的控件路径都返回值
+         正在跳过...(未检测到相关更改)
+         main.cpp
+         graph.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\chapter7.exe.embed.manifest.res" Debug\chapter7_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\DS_code\chapter7\Debug\chapter7.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\chapter7.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\DS_code\chapter7\Debug\chapter7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\DS_code\chapter7\Debug\chapter7.lib" /MACHINE:X86 Debug\chapter7.exe.embed.manifest.res
+         Debug\cstree.obj
+         Debug\DFS_BFS.obj
+         Debug\graph.obj
+         Debug\main.obj
+         Debug\queue.obj
+         Debug\sq_stack.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\chapter7.exe.embed.manifest" /manifest Debug\chapter7.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         chapter7.vcxproj -> D:\DS_code\chapter7\Debug\chapter7.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\chapter7.unsuccessfulbuild”。
+         正在对“Debug\chapter7.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\DS_code\chapter7\chapter7\chapter7.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.50
