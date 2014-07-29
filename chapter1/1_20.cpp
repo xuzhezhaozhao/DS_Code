@@ -1,9 +1,9 @@
-//Ï°Ìâ1.20
+//Ï°ï¿½ï¿½1.20
 
 #include <stdio.h>
 #include <stdlib.h>
 
-void main()
+int main()
 {
 	int *a;
 	int x, n;
@@ -28,4 +28,5 @@ void main()
 	}
 
 	printf("%d\n", p);
+	return 0;
 }
